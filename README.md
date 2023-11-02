@@ -27,7 +27,7 @@ N/A
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 Also I am leaving everything that I want for myself to view in this documet for later such as information on Badges and more. I have read through the a general understanding of the documents the sections had but I want it in my README for future reference. 
 
-![alt text](.assets/add 1 to readme)
+![altimage](.assets/addtoreadme)
 
 ## Credits
 
