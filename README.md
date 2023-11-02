@@ -9,7 +9,7 @@ This Prework Study Guide was created for boot camp students who were going throu
 - What problem does it solve? It provides a study guide and refrence for the boot camp student in the future. 
 - What did you learn? I learned how to store and manage code on GitHub and use it on my local machine. Use of HTML, CSS, and JS. 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -25,8 +25,9 @@ N/A
 ## Usage
 
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+Also I am leaving everything that I want for myself to view in this documet for later such as information on Badges and more. I have read through the a general understanding of the documents the sections had but I want it in my README for future reference. 
 
-![alt text](assets/add 1 to read me)
+![alt text](.assets/add 1 to readme)
 
 ## Credits
 
@@ -56,4 +57,4 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Go the extra mile and write tests for your application. Then provide examples on how to run them here. !!!!!
